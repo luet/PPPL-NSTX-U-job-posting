@@ -1,13 +1,12 @@
-Each run on the NSTX-U experiment [give a link here if I didn't give it earlier] consists of a plasma blast or shot [Link to youtube video]. 
-The conditions of the shots are carefully designed to provide scientific understanding [of fusion] [test research hypothesis]. 
-Through a large array of instrumentation each shot generate large amount of data. 
-As expected with and investment of this magnitude [link to how much?] each aspect [stages] of the shots needs to be fully [and carefully, abundently] documentated in a way that will be easily accessible by researchers [various actors of the experiment].
-The initial project for this position will be to develop a web [web based?] tool that will be used by everyone involved in the experiment to track the lifecycle of the shots: from the tracking of the initial scientific proposal, the logging of the experimental conditions and to the [visualization/recording] of the data analysis of the results.
+* For sure
+- [X] Each run on the NSTX-U experiment [give a link here if I didn't give it earlier] consists of a plasma blast or shot [Link to youtube video].
+- [X] Through a large array of instrumentation each shot generate large amount of data. 
+- [X] The initial project for this position will be to develop a web [web based?] tool that will be used by everyone involved in the experiment to track the lifecycle of the shots: from the tracking of the initial scientific proposal, the logging of the experimental conditions and to the [visualization/recording] of the data analysis of the results.
+- [X] The NSTX-U experiment is currently out of service for upgrade, but a previous version of the experiment (NSTX) was in operation from [??] to [??]. 
+- [X] Some software components that were developped for NSTX can be reused with some upgrades, other components will need to be written from scratch.
+- [X] This web tool will be critical to the NSTX-U experiment and will need to be fully operational when the experiment will return to operation in 2025. It will be used by everyone involved with the experiment: researchers at PPPL and Princeton University, outside collaborators, some international as well as technical staff. This is a unique opportunity to have a significant and long lasting impact on an important and exiting research.
+- [X] This role will require a lot of cooperation and communication with a large and diverse group of collaborators: researchers, technical staff ... and carefull project management to meet the deadline.
 
-The NSTX-U experiment is currently out of service for upgrade, but a previous version of the experiment (NSTX) was in operation from [??] to [??]. 
-Some software components that were developped for NSTX can be reused with some upgrades, other components will need to be written from scratch.
-
-
-This web tool will be critical to the NSTX-U experiment and will need to be fully operational when the experiment will return to operation in 2025. It will be used by everyone involved with the experiment: researchers at PPPL and Princeton University, outside collaborators, some international as well as technical staff. This is a unique opportunity to have a significant and long lasting impact on an important and exiting research.
-
-This role will require a lot of cooperation and communication with a large and diverse group of collaborators: researchers, technical staff ... and carefull project management to meet the deadline.
+* Not sure
+- [ ] The conditions of the shots are carefully designed to provide scientific understanding [of fusion] [test research hypothesis]. 
+- [ ] As expected with and investment of this magnitude [link to how much?] each aspect [stages] of the shots needs to be fully [and carefully, abundently] documentated in a way that will be easily accessible by researchers [various actors of the experiment].
