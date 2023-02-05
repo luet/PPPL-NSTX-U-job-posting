@@ -1,0 +1,109 @@
+
+What if you could have an impact on the search for an abundant, safe, affordable and environmentally sound means of generating electricity? This is the goal fusion energy at PPPL and the pace of the research toward that goal has been quickly accelerating in recent years.
+
+[ zero-carbon, abundent, fusion energy 
+
+Do you want to have an impact on the search for fusion energy?
+Do you have a background in research and love to write code? 
+Are you looking to apply your scientific programming expertise to a novel set of research
+problems? If so, Princeton University's Research Computing department is
+recruiting a Research Software Engineer to join the fast-growing
+Research Software Engineering (RSE) Group.
+
+
+--------------------------------------------------------------------------------
+[[https://www.nytimes.com/2022/12/13/science/nuclear-fusion-energy-breakthrough.html][Scientists Achieve Nuclear Fusion Energy Breakthrough in the US - The New York Times]]
+Mission: And even deeper understanding of the scientific principles that are applied here.
+   - This is an important part: not just achieving fusion (almost
+     naive) but also, and most importantly, understanding the scientific principles.
+   - Is the "probe" also called the apparatus?
+   - Can I call it facility?
+     
+--------------------------------------------------------------------------------
+Maybe I could ask PPPL for litterature:
+   - about fusion.
+   - what do they mean about experiment? and shot?
+   - I could write something and just asked for their feedback on it.
+
+--------------------------------------------------------------------------------
+Eliot:
+- instrumentation, diagnostic.
+  - experimental probe.
+- "shot" is part of their culture they always refer to the shot number.
+
+--------------------------------------------------------------------------------
+[[https://www.theverge.com/23508872/nuclear-fusion-power-clean-energy-breakthrough-explained][What in the world is nuclear fusion — and when will we harness it? -
+The Verge]] Simply put, "They shot a bunch of lasers at a pellet of
+fuel, and more energy was released from that fusion ignition than the
+energy of the lasers going in,"
+
+#Q: is that what the NSTX-U experiment do? Shouting lasers?
+--------------------------------------------------------------------------------
+[[https://thebulletin.org/2022/12/the-energy-departments-fusion-breakthrough-its-not-really-about-generating-electricity/][The Energy Department’s fusion breakthrough: It’s not really about generating electricity - Bulletin of the Atomic Scientists]]
+
+The fusion achievement that the US Energy Department announced this
+week is scientifically significant, but the significance does not
+relate primarily to electricity generation
+
+But [[https://sites.google.com/a/pppl.gov/nstx-u/overview?authuser=0][NSTX-U - About NSTX-U]]: 
+
+Princeton Plasma Physics Laboratory (PPPL) is yielding research
+results that may open an attractive path towards developing fusion
+energy as an abundant, safe, affordable and environmentally sound
+means of generating electricity.
+--------------------------------------------------------------------------------
+Look at their missions:
+[[https://sites.google.com/a/pppl.gov/nstx-u/overview/mission][NSTX-U - Mission]]
+for PPPL:
+[[https://www.pppl.gov/about/our-vision][Our Vision | Princeton Plasma Physics Laboratory]]
+
+--------------------------------------------------------------------------------
+In this position, you will be an integral part of the [[https://sites.google.com/a/pppl.gov/nstx-u/][National Spherical Torus Experiment - Upgrade]] (NSTX-U) project at the U.S. Department of Energy’s Princeton Plasma Physics Laboratory (PPPL).
+
+Experiments run on the experimental probe starts with researchers submitting a proposal. This proposal is reviewed and commented on. When the experiment itself involve many variables that needs to be recorded. All the data generated during the experiment need to be easily available and that data needs to be visualized.
+ 
+Some tools already have been developed in the past for each step of these steps. Some of them 
+
+There are already existing tools that provide the function need by each step of the process.
+
+There already are some software solution 
+
+The initial project for this position will be to build a [modern and flexible] web tool that will help [track,coordinate] the multiple stages of an experiment. [to provide a common and unified interface to the information related to a given experiment.]
+
+
+In this project you will be part of the [] group at PPPL
+
+Each experiment is called a shot. [check - I think that's what they called it]
+
+--------------------------------------------------------------------------------
+This project will require a lot of communications
+
+--------------------------------------------------------------------------------
+From: [[https://sites.google.com/a/pppl.gov/nstx-u/overview?authuser=0][NSTX-U - About NSTX-U]]
+Research on NSTX-U is conducted by a collaborative research team of
+physicists and engineers from 30 U.S. laboratories and universities
+and 28 international institutions from 11 countries.
+
+--------------------------------------------------------------------------------
+
+This is really good video on what is fusion:
+[[https://www.pppl.gov/about/about-plasmas-and-fusion][NSTX-U JD — About Plasmas and Fusion | Princeton Plasma Physics Laboratory]]
+
+--------------------------------------------------------------------------------
+In one of Clancey Rowley's student's dissertation, they call it a "plasma discharge"
+#+begin_example
+
+  Modeling of plasma rotation control for NSTX and NSTX-Uhttps://cwrowley.princeton.edu › theses › goumiri
+  simulation of plasma discharge 142301 (NSTX-U). In blue the same cor- responding functions for TRANSP analysis of plasma discharge 133367.
+#+end_example
+
+
+--------------------------------------------------------------------------------
+From [[https://physicstoday.scitation.org/do/10.1063/pt.5.1092/full/][NSTX-U JD — Director forced to step down after Princeton Plasma Physics Laboratory reactor fails]]
+
+Tokamaks use magnetic fields to bottle up plasmas of hydrogen
+isotopes, which heats the confined particles to tens of millions of
+degrees and causes them to fuse into helium.
+
+--------------------------------------------------------------------------------
+Track full lifecycle of a plasma discharge [within] the NSTX-U experiment [aparatus, instrument, fusion reactor]: the initial proposal, the experimental configuration of the run, the experiemental data generated by the discharge and the visualization of the results.
