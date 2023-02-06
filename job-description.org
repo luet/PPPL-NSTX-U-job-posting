@@ -35,11 +35,14 @@ You'll have the opportunity to regularly work closely with colleagues, faculty, 
 - Experience with the Linux command line.
 - Demonstrated successes working in a collaborative software development environment (often geographically distributed) as well as independently.
 - Ability to manage large, complex software projects involving a large and diverse user base.
+- Experience working with relational database.
 
 * Preferred Qualifications
 - Background in or understanding of nuclear physics concepts.
 - Experience working in a research environment.
 - A Master's/Ph.D. in computer science, applied science, or another related field with a strong computational focus or equivalent experience in a research setting is preferred.
+- Experience with DevOps.
+- Experience with containers.
 
 * Education
 - A Bachelor's degree in computer science, engineering, sciences, or a related computational field is required.
